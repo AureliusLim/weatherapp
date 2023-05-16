@@ -1,0 +1,21 @@
+.container{
+    background-color: rgba(226, 85, 85, 0.35);
+    overflow:hidden;
+    height:1%;
+    width:281px;
+    border-radius:22px;
+    margin: 25px 5px 5px 30px;
+    float:left;
+}
+.rescontainer{
+    margin: 2px 0 0 80px;
+    display:inline-block;
+}
+.container p{
+    color:black;
+    font-family: "helvetica";
+    font-size:17px;
+    z-index:1;
+    line-height:11px;
+    
+}

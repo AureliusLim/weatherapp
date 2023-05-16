@@ -1,0 +1,17 @@
+.searchbar{
+    margin: 37px 0 0 37px;
+    background:url('./searchicon.png')  no-repeat scroll;
+    background-position:right 5% top 55%;
+    width: 321px;
+    height: 50px;
+    border-radius:50px;
+    padding:10px;
+    background-color: rgba(226, 85, 85, 0.38);
+    border-color: transparent transparent #eaeaea transparent; 
+    border-color: rgba(255,255,255,0) rgba(255,255,255,0) #eaeaea rgba(255,255,255,0);
+}
+.searchbar::placeholder{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
