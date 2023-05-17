@@ -25,7 +25,7 @@ function Searchresult(){
             <Link to='Japan'><p>Japan</p></Link>
             <Link to='Kazakhstan'><p>Kazakhstan</p></Link>
             <Link to='Pakistan'><p>Pakistan</p></Link>
-            <Link to='Philippines'><p>Philippines</p></Link>
+            <Link to=''><p>Philippines</p></Link>
             <Link to='Russia'><p>Russia</p></Link>
             <Link to='UnitedKingdom'><p>United Kingdom</p></Link>
             <Link to='UnitedStates'><p>United States</p></Link>
