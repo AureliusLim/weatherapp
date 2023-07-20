@@ -1,7 +1,7 @@
 .container{
     float:left;
-    height:800px;
-    width:900px;
+    height:850px;
+    width:970px;
     margin: 25px 5px 5px 90px;
     background-image: linear-gradient(#7E08F4,#B81212);
     color:white;
@@ -49,3 +49,8 @@
     color:white;
 }
 
+.horizontal {
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}

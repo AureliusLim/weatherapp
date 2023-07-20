@@ -1,12 +1,11 @@
 import Searchbar from './components/Searchbar.js';
 import Display from './components/Display.js';
-import Searchresult from './components/Searchresult.js';
 import {Route, Routes} from 'react-router-dom';
 function App() {
   return (
     <div>
        <Searchbar />
-       <Searchresult />
+      
      
       <Routes>
           <Route exact path='/' element= {<Display location="Asia/Manila" country="Philippines" city="Metro Manila" locid='1701667'/>}/>
